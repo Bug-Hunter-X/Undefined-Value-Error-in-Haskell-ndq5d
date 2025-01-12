@@ -1,0 +1,1 @@
+This repository contains a simple Haskell program that demonstrates an undefined value error. The program attempts to add 5 to an undefined variable, which results in a runtime exception. The solution shows how to handle this error by using a Maybe type.
